@@ -42,7 +42,7 @@
 
 ---
 
-## 📊 GitHub & LeetCode Stats  
+## 📊 GitHub Stats  
 
 <table align="center">
   <tr>
@@ -51,11 +51,6 @@
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ammuleshwari&theme=radical" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://leetcard.jacoblin.cool/ammuleshwari20?theme=dark&font=Karma" />
     </td>
   </tr>
 </table>
