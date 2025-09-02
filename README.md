@@ -1,6 +1,6 @@
 <!-- GitHub Profile README -->
 
-<h1 align="center"> Hi there! 👋 I'm Ammuleshwari </h1>
+<h1 align="center"> Hi there! 👋 I'm Pasham Ammuleshwari </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77F00&width=435&lines=Full-Stack+Developer;Building+Dockerized+Apps;Exploring+AWS+Cloud;Loves+Problem-Solving" />
